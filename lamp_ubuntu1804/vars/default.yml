@@ -1,0 +1,7 @@
+---
+mysql_root_password: "12345"
+app_user: "root"
+http_host: "max.local"
+http_conf: "max.local.conf"
+http_port: "80"
+disable_default: true
